@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjCSharpWiederholung", "PrjCSharpWiederholung\PrjCSharpWiederholung.csproj", "{17A81F41-6193-4448-A2B6-D8648507334A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17A81F41-6193-4448-A2B6-D8648507334A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A81F41-6193-4448-A2B6-D8648507334A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A81F41-6193-4448-A2B6-D8648507334A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A81F41-6193-4448-A2B6-D8648507334A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89C9C28D-B70F-42A5-B180-D30826DBCC72}
+	EndGlobalSection
+EndGlobal
