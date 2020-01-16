@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{17A81F41-6193-4448-A2B6-D8648507334A}</ProjectGuid>
+    <ProjectGuid>{F30BF669-D63E-4DCD-83D7-B03B8E69D594}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PrjCSharpWiederholung</RootNamespace>
-    <AssemblyName>PrjCSharpWiederholung</AssemblyName>
+    <RootNamespace>StrategiePattern</RootNamespace>
+    <AssemblyName>StrategiePattern</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Arbeitszeitmodel.cs" />
-    <Compile Include="Entlohnungsschema.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Teilnehmerin.cs" />
-    <Compile Include="Tier.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
